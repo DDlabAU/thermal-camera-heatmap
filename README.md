@@ -8,4 +8,4 @@ Kameraet er et varmekamera, der med en opløsning på 8x8 pixels kan måle tempe
 
 ![](Processing/thermalCameraDemo.gif)
 
-![](/Users/Pacour/Developer/L4COUR_Max-Patchers/Max Projects/05_Max8 - Adafruit AMG8833 Thermal Camera Heatmap Jitter/media/Max_MSP-heating-camera.gif)
+![](./media/Max_MSP-heating-camera.gif)
