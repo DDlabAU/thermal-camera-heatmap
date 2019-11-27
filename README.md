@@ -8,4 +8,4 @@ Kameraet er et varmekamera, der med en opløsning på 8x8 pixels kan måle tempe
 
 ![](Processing/thermalCameraDemo.gif)
 
-![](./media/Max_MSP-heating-camera.gif)
+![](/Max:MSP:Jitter/media/Max_MSP-heating-camera.gif)
