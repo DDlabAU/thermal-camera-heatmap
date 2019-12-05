@@ -1,6 +1,6 @@
 # Thermal Camera Heatmap
 
-Dette repository indeholder [Processing](/Processing) og [Max/MSP/jitter](/Max:MSP:jitter) kode, der visualiserer data fra et [Adafruit Thermal Camera](https://www.adafruit.com/product/3538). 
+Dette repository indeholder [Processing](/Processing) og [Max/MSP/Jitter](/Max:MSP:Jitter) kode, der visualiserer data fra et [Adafruit Thermal Camera](https://www.adafruit.com/product/3538). 
 
 ![](https://cdn-shop.adafruit.com/970x728/3538-01.jpg)
 
